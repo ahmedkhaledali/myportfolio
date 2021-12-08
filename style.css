@@ -68,7 +68,7 @@ a ,a:hover{
 	position: relative;
 }
 #hero-area .hero-cover{
-	background-image: url(./image/1.jpeg);
+	background-image: url(/1.jpeg);
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
